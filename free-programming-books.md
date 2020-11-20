@@ -750,7 +750,7 @@
 * [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Prof. Stewart Weiss (PDF)
 * [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
-
+* [Operating System Concepts](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf) -Albert Silberschatz & Galve & Gagne (PDF)
 
 #### Parallel Programming
 
@@ -948,7 +948,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Google Android Developer Training](https://developer.android.com/guide)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
-
+* [Pro Android 4] (http://people.cs.deu.edu.tr/semih/Android_Books/Apress%20Pro%20Android%204%20(2012).pdf) - Satya Komatineni & Dave MacLean
 
 ### APL
 
@@ -2454,7 +2454,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
-
+* [Automate the Boring Stuff with Python] (https://web.bii.a-star.edu.sg/~liangzhu/2017/11/02/linuxcommandline/automatetheboringstuffwithpython_new.pdf) -Al Sweigart (PDF)
 
 #### Django
 
